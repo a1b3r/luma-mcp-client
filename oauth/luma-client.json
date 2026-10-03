@@ -1,7 +1,7 @@
 {
   "client_id": "https://a1b3r.github.io/luma-mcp-client/oauth/luma-client.json",
   "client_name": "Luma Event Discovery Test",
-  "redirect_uris": ["http://localhost:*/callback"],
+  "redirect_uris": ["http://localhost:8765/callback"],
   "token_endpoint_auth_method": "none",
   "grant_types": ["authorization_code"],
   "response_types": ["code"]
